@@ -1,40 +1,40 @@
-<img src="https://github.com/d4rken-org/sdmaid-se/raw/main/.assets/banner.png" width="400">
+<IMGsrc="https://github.com/d4rken-org/sdmaid-se/raw/main/.assets/banner.png" 宽度="400">
 
-# SD Maid 2/SE
+#SD女仆2/SE
 
 [![API](https://img.shields.io/badge/API-26%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=26)
-[![Crowdin](https://badges.crowdin.net/sdmaid-se/localized.svg)](https://crowdin.com/project/sdmaid-se)
-[![Code tests & eval](https://img.shields.io/github/actions/workflow/status/d4rken-org/sdmaid-se/code-checks.yml?logo=githubactions&label=Code%20tests
+[![克劳丁](https://badges.crowdin.net/sdmaid-se/localized.svg)](https://crowdin.com/project/sdmaid-se)
+[![程式码测试与评估](https://img.shields.io/github/actions/workflow/status/d4rken-org/sdmaid-se/code-checks.yml?logo=githubactions&label=Code%20tests
 )](https://github.com/d4rken-org/sdmaid-se/actions)
-[![Github Downloads](https://img.shields.io/github/downloads/d4rken-org/sdmaid-se/total.svg?label=GitHub%20Downloads&logo=github)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
-[![Google Play Downloads](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.sdmse%26l%3DGoogle%2520Play%26m%3D%24totalinstalls)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
+[![GitHub下载](https://img.shields.io/github/downloads/d4rken-org/sdmaid-se/total.svg?label=GitHub%20Downloads&logo=github)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
+[![Google Play下载](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.sdmse%26l%3DGoogle%2520Play%26m%3D%24totalinstalls)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
 [![⭐](https://img.shields.io/endpoint?url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.sdmse%26gl%3DUS%26hl%3Den%26l%3D%25E2%25AD%2590%26m%3D%24rating)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
 
-> _**SD Maid 2/SE is actively being worked on and not feature complete. Feature requests are welcome!**_
+> _**SD Maid2/SE正在积极工作，功能尚未完成。欢迎功能请求！**_
 
-[SD Maid SE](https://github.com/d4rken-org/sdmaid-se) (AKA SD Maid 2) is a file management tool for Android that
-specialises in maintenance. Its core purpose is freeing up space and removing unwanted data.
+[SD女仆SE](https://github.com/d4rken-org/sdmaid-se)(又名SD Maid2)是Android的文件管理工具，
+专门从事维护。其核心目的是释放空间和删除不需要的数据。
 
-Features include:
+功能包括：
 
-* Removing data that belongs to apps that are no longer installed (CorpseFinder)
-* Deleting expendable files, e.g. caches (AppCleaner)
-* User configurable filters for random files (SystemCleaner)
-* Scheduling actions (Scheduler)
-* Controlling/disabling apps (AppControl)
-* Storage overview (StorageAnalyzer)
-* Find duplicate data (Deduplicator)
-* Root and Shizuku support
+*删除属于不再安装的应用程序的数据(CorpseFinder)
+*删除消耗性文件，例如缓存(AppCleaner)
+*随机文件的用户可配置过滤器(SystemCleaner)
+*计划操作(计划程序)
+*控制/禁用应用程序(appControl)
+*存储概述(StorageAnalyzer)
+*查找重复数据(Deduplicator)
+*root和Shizuku支架
 
-[SD Maid SE](https://github.com/d4rken-org/sdmaid-se) is the successor
-to [SD Maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm). A complete rewrite, optimized for newer
-Android versions, with a focus on [SD Maid's](https://play.google.com/store/apps/details?id=eu.thedarken.sdm) most
-popular features. More details about SD Maid vs SD Maid SE can be found in
-the [FAQ](https://github.com/d4rken-org/sdmaid-se/wiki/FAQ).
+[SD女仆SE](https://github.com/d4rken-org/sdmaid-se)是继任者
+到[SD女仆](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)。完全重写，针对较新版本进行了优化
+Android版本，重点是[SD女佣的](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)大多数
+热门功能。有关SD Maid与SD Maid SE的更多详细信息，请访问
+这[常见问题解答](https://github.com/d4rken-org/sdmaid-se/wiki/FAQ).
 
-## Download
+##下载
 
-| Source                                                                                 | Status                                                                                                                                                                                                                          |
+|来源|状态|
 |----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Google Play (Release)](https://play.google.com/store/apps/details?id=eu.darken.sdmse) | ![](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.sdmse%26gl%3DUS%26hl%3Den%26l%3DGoogle%2520Play%2520(Release)%26m%3D%24version) |
 | [Google Play (Open Testing)](https://play.google.com/apps/testing/eu.darken.sdmse)     | ![](https://img.shields.io/badge/Open%20Test%20Track%20-%20Google%20Play?logo=googleplay&logoColor=googleplay&label=Google%20Play)                                                                                              |
